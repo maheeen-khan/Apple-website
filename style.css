@@ -1,0 +1,15 @@
+.store{
+    background-color: black;
+    padding: 2%;
+    font-size: 13px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.store a{
+    color: white;
+    text-decoration: none;
+}
+.store h6, .store p{
+    color: gray;
+    font-size:13px;
+    margin-left: 16px;
+}
