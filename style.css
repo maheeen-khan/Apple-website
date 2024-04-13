@@ -1,5 +1,9 @@
+.navbar{
+    position: fixed;
+}
+
 .store{
-    background-color: black;
+    background-color: #161617;
     padding: 2%;
     font-size: 13px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -18,4 +22,8 @@
 }
 .dropdown{
     font-size: 13px;
+}
+.logo{
+    width: 38px;
+    height: 37px;
 }
