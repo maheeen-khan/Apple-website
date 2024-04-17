@@ -27,3 +27,33 @@
     width: 38px;
     height: 37px;
 }
+
+/* First portion */
+
+.first-por{
+    background-image: url(./images/Front_cleanup.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.white-logo{
+    width: 35px;
+    height: 40px;
+}
+.front-heading a{
+    text-decoration: none;
+    color: white;
+}
+.btn-light{
+    border-radius: 140px !important;
+    padding: 0.5em 1em !important;
+}
+.btn-outline-dark{
+    border-radius: 140px !important;
+    border-color: white !important;
+    color: white !important;
+    padding: 0.5em 1.2em !important;
+}
+.btn-outline-dark :hover{
+    background-color: white !important;
+}
